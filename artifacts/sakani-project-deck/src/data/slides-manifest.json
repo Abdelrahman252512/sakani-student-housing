@@ -1,0 +1,98 @@
+[
+  {
+    "id": "c5ad798a-4eac-4e56-a28c-0a9d1d1a0001",
+    "position": 1,
+    "filepath": "src/pages/slides/Cover.tsx",
+    "title": "سكني | Sakani",
+    "description": "غلاف المشروع مع أسماء المقدم والمشرف وشعاري سكني وNordpoints أسفل الاسمين.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "c5ad798a-4eac-4e56-a28c-0a9d1d1a0002",
+    "position": 2,
+    "filepath": "src/pages/slides/Problem.tsx",
+    "title": "المشكلة: العثور على السكن يحتاج وضوحًا أكبر",
+    "description": "تشتت الإعلانات وصعوبة المقارنة والحاجة لمعلومات واضحة.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "c5ad798a-4eac-4e56-a28c-0a9d1d1a0003",
+    "position": 3,
+    "filepath": "src/pages/slides/PlatformConcept.tsx",
+    "title": "الفكرة: منصة واحدة تجمع رحلة السكن",
+    "description": "النطاق الجغرافي وفكرة المنصة والفئات المستفيدة.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "cf1dba94-89b6-4bc4-894d-adc92c138404",
+    "position": 4,
+    "filepath": "src/pages/slides/StudentJourney.tsx",
+    "title": "رحلة الطالب في أربع خطوات",
+    "description": "تحديد الاحتياجات والمقارنة ومراجعة التفاصيل وطلب الحجز.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "c5ad798a-4eac-4e56-a28c-0a9d1d1a0004",
+    "position": 5,
+    "filepath": "src/pages/slides/SearchComparison.tsx",
+    "title": "بحث يناسب احتياجات كل طالب",
+    "description": "التصفية حسب الاحتياجات ومقارنة حتى ثلاثة خيارات سكن.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "cf1dba94-89b6-4bc4-894d-adc92c138406",
+    "position": 6,
+    "filepath": "src/pages/slides/ListingDetails.tsx",
+    "title": "تفاصيل تساعد على اتخاذ القرار",
+    "description": "بيانات السكن والتوافر والمفضلة ومشاركة رابط الإعلان.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "c5ad798a-4eac-4e56-a28c-0a9d1d1a0005",
+    "position": 7,
+    "filepath": "src/pages/slides/BookingCost.tsx",
+    "title": "تكلفة أوضح قبل إرسال طلب الحجز",
+    "description": "مكونات التكلفة وطلب الحجز دون دفع إلكتروني حاليًا.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "c5ad798a-4eac-4e56-a28c-0a9d1d1a0006",
+    "position": 8,
+    "filepath": "src/pages/slides/TrustCommunity.tsx",
+    "title": "الثقة والتواصل داخل التجربة",
+    "description": "مراجعة التوثيق والدعم والرسائل وخصوصية شركاء السكن.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "c5ad798a-4eac-4e56-a28c-0a9d1d1a0007",
+    "position": 9,
+    "filepath": "src/pages/slides/PlatformManagement.tsx",
+    "title": "أدوات إدارة لكل دور",
+    "description": "إدارة المالك والطالب والمشرف لمسارات الاستخدام.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "c5ad798a-4eac-4e56-a28c-0a9d1d1a0008",
+    "position": 10,
+    "filepath": "src/pages/slides/TechnologyMobile.tsx",
+    "title": "موقع متكامل وتجربة قابلة للتثبيت",
+    "description": "الواجهة العربية وتقنيات الويب وقاعدة البيانات وإعداد PWA.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "c5ad798a-4eac-4e56-a28c-0a9d1d1a0009",
+    "position": 11,
+    "filepath": "src/pages/slides/NextSteps.tsx",
+    "title": "المرحلة الحالية وما يأتي بعدها",
+    "description": "ما هو جاهز وما لم يُفعّل وأولويات التشغيل التالية.",
+    "speakerNotes": ""
+  },
+  {
+    "id": "cf1dba94-89b6-4bc4-894d-adc92c138412",
+    "position": 12,
+    "filepath": "src/pages/slides/ThankYou.tsx",
+    "title": "شكرًا لحسن الاستماع",
+    "description": "ختام العرض مع الاسمين وشعار كل منهما أسفله كما طُلب.",
+    "speakerNotes": ""
+  }
+]

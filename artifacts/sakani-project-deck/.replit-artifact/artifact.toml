@@ -1,0 +1,28 @@
+kind = "slides"
+previewPath = "/sakani-project-deck/"
+title = "Sakani Project Overview"
+description = "A nine-slide overview of the Sakani student housing marketplace, its workflows, seeded demo metrics, technical foundation, and remaining launch requirements."
+version = "1.0.0"
+id = "artifacts/sakani-project-deck"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/sakani-project-deck/" ]
+localPort = 24673
+
+[services.development]
+run = "pnpm --filter @workspace/sakani-project-deck run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/sakani-project-deck", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/sakani-project-deck/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24673"
+BASE_PATH = "/sakani-project-deck/"
