@@ -19,7 +19,7 @@
 
 - [ملف فكرة المشروع وأهدافه](docs/PROJECT_IDEA.md).
 - [ملفات العرض التقديمي القابلة للتعديل](artifacts/sakani-project-deck/).
-- تم إعداد العرض في ملف **PDF** مستقل للعرض والمشاركة.
+- [تحميل العرض التقديمي بصيغة PDF](https://github.com/Abdelrahman252512/sakani-student-housing/raw/refs/heads/main/presentation/Sakani-Project-Presentation.pdf).
 
 ## التقنيات
 

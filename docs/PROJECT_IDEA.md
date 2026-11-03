@@ -41,4 +41,6 @@
 
 ## العرض التقديمي
 
-تم إعداد عرض للمشروع بصيغة **PDF**. وتوجد ملفات الشرائح المصدرية القابلة للتعديل في مجلد [`artifacts/sakani-project-deck`](../artifacts/sakani-project-deck/).
+[تحميل عرض المشروع بصيغة PDF](https://github.com/Abdelrahman252512/sakani-student-housing/raw/refs/heads/main/presentation/Sakani-Project-Presentation.pdf).
+
+توجد ملفات الشرائح المصدرية القابلة للتعديل في مجلد [`artifacts/sakani-project-deck`](../artifacts/sakani-project-deck/).
